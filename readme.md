@@ -5,7 +5,9 @@ Requirements:
 Python 3.7 or up
 
 Sample screenprints:
+
 Home screen
+
 ![main_picpuzzle](screenprint/picpuzzleHome.png)
 
 Cartoon puzzle game screen
@@ -18,9 +20,12 @@ Paint game screen
 
 
 SimpleLoginApp.py
+
 Login test app
+
 ![simpleLoginApp](screenprint/SimpleLoginApp.png)
 
 main.py - Calculator app
+
 ![simplecalculator](screenprint/calculator.png)
 
